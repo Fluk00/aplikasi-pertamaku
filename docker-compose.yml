@@ -9,7 +9,7 @@ services:
     networks:
       - app-network
     environment:
-      - NAME=Evan Yo
+      - NAME=Caesar Eka Nathanael
 
   frontend:
     build:
